@@ -1,0 +1,8 @@
+table {
+  width: 100%;
+  background-color: rgb(47, 206, 255); 
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+}
